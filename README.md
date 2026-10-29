@@ -1,4 +1,4 @@
-# 📥 file-sandbox
+# 📥 file-sandboxx
 
 A GitHub Actions workflow that downloads any file from the internet simply by pasting a URL in your commit message. Powered by **aria2c**, **wget**, or **curl** — your choice.
 
